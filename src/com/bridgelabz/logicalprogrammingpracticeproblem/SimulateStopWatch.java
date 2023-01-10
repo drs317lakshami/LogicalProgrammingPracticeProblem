@@ -28,6 +28,6 @@ public class SimulateStopWatch {
 		System.out.println("Enter to stop");
 		scanner.next();
 		stopTime();
-		elapsedTime();
+		 elapsedTime();
 	}
 }
