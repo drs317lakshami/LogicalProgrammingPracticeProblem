@@ -35,7 +35,7 @@ public class DayOfWeek {
         } else if (d0 == 5) {
             System.out.println("Friday");
         } else {
-            System.out.println("Saturday");
+             System.out.println("Saturday");
         }
 
     }
