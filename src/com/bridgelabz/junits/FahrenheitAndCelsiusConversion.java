@@ -11,7 +11,7 @@ public class FahrenheitAndCelsiusConversion {
 		int ch = scanner.nextInt();
 		switch (ch) {
 		case 1:
-			System.out.println("Enter  Fahrenheit temperature");
+			 System.out.println("Enter  Fahrenheit temperature");
 			f = scanner.nextDouble();
 			c = (f - 32) * 5 / 9;
 			System.out.println("Celsius temperature is = " + c);
