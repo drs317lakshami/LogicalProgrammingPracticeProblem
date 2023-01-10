@@ -28,7 +28,7 @@ public class PerfectNumber {
             if (n % i == 0) {
                 sum = sum + i;
             }
-            i++;
+             i++;
         }
         return sum;
 
