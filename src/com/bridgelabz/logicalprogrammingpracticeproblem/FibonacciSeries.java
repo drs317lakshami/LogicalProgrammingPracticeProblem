@@ -2,7 +2,7 @@ package com.bridgelabz.logicalprogrammingpracticeproblem;
 
 public class FibonacciSeries {
 
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         FibonacciSeries fs = new FibonacciSeries();
         fs.printFibonacciSeries();
     }
