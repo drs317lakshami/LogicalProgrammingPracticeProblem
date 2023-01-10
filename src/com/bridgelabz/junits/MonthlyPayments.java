@@ -22,7 +22,7 @@ public class MonthlyPayments {
 		double n = 12 * y;
 		double r1 = r / (12 * 100);
 		double payment = p * r / (1 - (Math.pow((1 + r1), (-n))));
-		System.out.println("monthly Payment = " + payment);
+		System.out.println("monthly Payment = " + payment) ;
 	}
 
 }
