@@ -16,7 +16,7 @@ public class SquareRoot {
 		double t = num;
 		while (Math.abs(t - num / t) > epsilon * t)
 			t = (num / t + t) / 2;
-		System.out.println(t);
+		 System.out.println(t);
 
 	}
 }
