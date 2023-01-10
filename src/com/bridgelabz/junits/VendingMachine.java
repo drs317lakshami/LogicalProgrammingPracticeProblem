@@ -27,7 +27,7 @@ public class VendingMachine {
 				money = money % notes[i];
 				total += calNotes;
 				System.out.println(notes[i] + " Notes ---> " + calNotes);
-			}
+			 }
 		}
 		i++;
 		return calculate(money, notes);
