@@ -19,6 +19,6 @@ public class ReverseNumber {
 			rev = (rev * 10) + rem;
 			num = num / 10;
 		}
-		return rev;
+		 return rev;
 	}
 }
